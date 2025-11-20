@@ -6,12 +6,13 @@
 
 # Circuit Diagram 
 
+![WhatsApp Image 2025-11-14 at 08 41 43_cc6ae5b5](https://github.com/user-attachments/assets/dd23bf05-6121-45f1-b7f0-0e87987c84a4)
 
 
 # Output Graph
 
 
+![WhatsApp Image 2025-11-14 at 08 41 44_3683334a](https://github.com/user-attachments/assets/ca21459e-a417-4923-86b0-c65387fbf607)
 
 # Result
-
-
+Thus the simulation of tunned collector oscillator using LTspice is done and verified successfully
