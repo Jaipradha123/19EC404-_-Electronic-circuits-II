@@ -6,12 +6,14 @@
 
 # Circuit Diagram 
 
-![WhatsApp Image 2025-11-17 at 09 07 27_eb3a9ccc](https://github.com/user-attachments/assets/f18d6f98-a785-4ae9-9355-ff3fa4d3bf4a)
+
+
+![WhatsApp Image 2025-11-14 at 08 41 42_cf8dcc20](https://github.com/user-attachments/assets/2b70bf05-2632-4579-8553-1d84756a6d9c)
 
 
 # Output Graph
 
-![WhatsApp Image 2025-11-17 at 09 09 36_8a522dab](https://github.com/user-attachments/assets/716bf58c-ebf3-410a-80b6-51b65308d3a3)
+![WhatsApp Image 2025-11-14 at 08 41 43_0ccfe028](https://github.com/user-attachments/assets/1e4d24e5-c198-4eb5-b67b-b5e9ac6e90b1)
 
 
 # Result
