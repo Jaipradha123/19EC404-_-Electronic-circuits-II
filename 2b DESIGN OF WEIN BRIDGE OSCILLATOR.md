@@ -28,6 +28,8 @@
 
 
 
+![WhatsApp Image 2025-11-20 at 22 30 35_d932b6af](https://github.com/user-attachments/assets/4b164a80-ec4f-4a40-9b01-8258da20abae)
+
 ## Result
 
 Thus, the **WEIN BRIDGE OSCILLATOR** was designed for the given frequency.
